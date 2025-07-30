@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **Bradleycolesperkins/bradleycolesperkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm Bradley!
 
 🚀 **Lead Full‑Stack Developer @ Ware**  
 💾 **CS Graduate, Swansea University**  
