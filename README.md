@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there, I'm Bradley!
 
-🚀 **Lead Software Engineer @ ROCK**  
+🚀 **Senior Software Engineer @ Made Tech**  
 💾 **CS Graduate, Swansea University**  
 
 ---
